@@ -1,4 +1,5 @@
-# Definindo o input para o usuário
+# Importando bibliotecas
+# Definindo variável e input para o usuário
 # Criando um laço a partir do número digitado pelo usuário
 # Criando uma lista de números inteiros (de 1 até 60) com laço de 6 repetições
 # Printando a lista
